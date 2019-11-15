@@ -2,13 +2,32 @@
 
 Guides from nerds to staying safe online.
 
-
-
-
-## Home Network
+## Networking
 
 ### VLANs
 
-## VPN
+### VPN
+### DNS
 
-## Control your DNS
+## Identities
+
+### Email
+
+## Encryption
+
+### Computer
+
+### USB
+
+## Keys
+
+### SSH
+### Passwords
+### Yubikey
+### PGP/GPG
+
+## External Guides
+
+### EFF
+
+#### [Surveillance Self-Defence](https://ssd.eff.org/)
